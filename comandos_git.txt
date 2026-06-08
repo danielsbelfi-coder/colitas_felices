@@ -1,0 +1,19 @@
+git --version
+definición: muestra la versiòn instalada de Git.
+Ejemplo: git --version
+
+git init
+definición: Inicializa un repertorio en la carpeta actual
+Ejemplo: git init
+
+git add
+definición: agrega cambios al área de preparación (staging)
+Ejemplo: git add
+
+git commit
+definición: registra cambios con un mensaje descriptivo
+Ejemplo: git commit -m "primer commit"
+
+git status
+definición: Muestra el estado del repertorio
+Ejemplo: git status
